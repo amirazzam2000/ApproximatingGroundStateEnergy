@@ -1,5 +1,6 @@
-# ApproximatingGroundStateEnergy
-A project aming at approximating the ground state energy of the molecular hamiltonian using machine learning and quantum computing.
+# Aproximating the Ground State of The Molecular Hamiltonian 
+
+A project aiming  at approximating the ground state energy of the molecular Hamiltonian using machine learning and quantum computing.
 
 The full description of the project can be found in the report file "_Final_Thesis___Amir_Azzam.pdf_".
 
